@@ -1,13 +1,13 @@
 {
   "journals": [
-    "nature",
-    "lancet",
-    "science",
-    "cell",
-    "nejm",
-    "bmj",
-    "jama",
-    "radiology"
+    "Nature",
+    "Lancet",
+    "Science",
+    "Cell",
+    "N Engl J Med",
+    "BMJ",
+    "JAMA",
+    "Radiology"
   ],
   "topics": [
     "artificial intelligence",
