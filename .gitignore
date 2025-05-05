@@ -1,0 +1,28 @@
+# Ignore downloaded papers and PDFs
+downloads/
+
+# Ignore logs
+data/paper_catchup.log
+
+# Ignore Slack configuration (contains sensitive webhook URL)
+data/slack_config.json
+
+# Ignore backups
+data/backups/
+
+# Ignore macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Ignore Linux system files
+*~
+.directory
+.Trash-*
+
+# Ignore Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/

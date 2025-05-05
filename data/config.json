@@ -1,0 +1,37 @@
+{
+  "journals": [
+    "nature",
+    "lancet",
+    "science",
+    "cell",
+    "nejm",
+    "bmj",
+    "jama",
+    "radiology"
+  ],
+  "topics": [
+    "artificial intelligence",
+    "machine learning",
+    "climate change",
+    "radiogenomics",
+    "diagnosis"
+  ],
+  "search_settings": {
+    "days_back": 7,
+    "max_papers_per_topic": 3,
+    "min_relevance_score": 0.7
+  },
+  "schedule": {
+    "time": "03:00"
+  },
+  "output_format": {
+    "summary_sections": [
+      "What was done",
+      "Key findings",
+      "Novelty",
+      "Potential applications",
+      "Limitations"
+    ],
+    "summary_length": "medium"
+  }
+}
